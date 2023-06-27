@@ -1,0 +1,11 @@
+.chakra-popover__popper {
+  z-index: 3;
+}
+
+.chakra-popover__arrow-positioner {
+  z-index: 4 !important;
+}
+
+.chakra-popover__content {
+  outline: none;
+}
